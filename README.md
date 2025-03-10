@@ -23,8 +23,3 @@ This is a simple note-taking application built using C# and Windows Forms. It al
 
 - .NET 8 SDK or later
 - Visual Studio 2022 or later
-
-### Installation
-
-1. Clone the repository:
-   
